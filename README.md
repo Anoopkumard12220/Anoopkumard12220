@@ -27,7 +27,7 @@
 
 <a href="https://code-nova-pi.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00ff9d&color=0d1117" /></a>
 <a href="https://github.com/Anoopkumard12220"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&color=0d1117" /></a>
-<a href="https://www.linkedin.com/in/anoop-dubey-4a52a5380"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=58a6ff&color=0d1117" /></a>
+<a href="https://www.linkedin.com/in/𝘼𝙣𝙤𝙤𝙥-𝘿𝙪𝙗𝙚𝙮-4a52a5380"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=58a6ff&color=0d1117" /></a>
 <a href="mailto:Anoop.dev56@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ea4335&color=0d1117" /></a>
 
 </div>
@@ -263,7 +263,7 @@ exploring:  ["On-device AI", "Agentic Workflows", "3D Web Experiences"]
 
 <a href="https://code-nova-pi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00ff9d?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="https://github.com/Anoopkumard12220"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/anoop-dubey-4a52a5380"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/𝘼𝙣𝙤𝙤𝙥-𝘿𝙪𝙗𝙚𝙮-4a52a5380"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:Anoop.dev56@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
