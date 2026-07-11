@@ -38,34 +38,39 @@
 
 <table>
 <tr>
-<td width="18%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
-<img src="https://github.com/Anoopkumard12220.png" width="150" height="150" style="border-radius:50%;" />
+```
+      ▄▄▄▄▄▄▄▄▄▄▄▄
+    ▄█▀▀░░░░░░░░▀▀█▄
+   ██░░▄▄▄▄░░▄▄▄▄░░██
+   ██░░█░░█░░█░░█░░██
+   ██░░░░▀▀░░▀▀░░░░██
+    ▀█▄░░░░▄▄░░░░▄█▀
+      ▀▀███████▀▀
+     ▄██▀▀░░░░▀▀██▄
+    ██░░░░░░░░░░░░██
+    ██░░░░░░░░░░░░██
+     ▀██▄░░░░▄▄██▀
+       ▀▀██████▀▀
+```
 
 </td>
-<td width="82%">
+<td width="70%">
 
-```ansi
-┌──────────────────────────────────────────────────────────────────────────┐
-│  anoop@codenova : ~                                                       │
-├──────────────────────────────────────────────────────────────────────────┤
-│                                                                            │
-│        ▄▄▄▄▄▄▄▄▄▄▄▄            OS ............ CodeNova Dev Environment  │
-│      ▄█▀▀░░░░░░░░▀▀█▄          Editor .......... GitHub Web Editor       │
-│     ██░░▄▄▄▄░░▄▄▄▄░░██         Languages ....... JS · TS · C# · Python   │
-│     ██░░█░░█░░█░░█░░██         Frontend ........ React · Next.js · R3F   │
-│     ██░░░░▀▀░░▀▀░░░░██         Backend ......... Node.js · Firebase      │
-│      ▀█▄░░░░▄▄░░░░▄█▀          Database ........ Firestore · Supabase    │
-│        ▀▀███████▀▀             Tools ........... Vercel · Netlify · Git  │
-│       ▄██▀▀░░░░▀▀██▄           Focus ........... CodeNova Studio         │
-│      ██░░░░░░░░░░░░██          Portfolio ....... code-nova-pi.vercel.app │
-│      ██░░░░░░░░░░░░██          LinkedIn ........ /in/anoop-dubey         │
-│       ▀██▄░░░░▄▄██▀            Email ........... Anoop.dev56@gmail.com   │
-│         ▀▀██████▀▀             Status .......... Building CodeNova Studio│
-│                                 Coding Since ..... 2023                  │
-│                                                                            │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://img.shields.io/badge/OS-CodeNova%20Dev%20Environment-00ff9d?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Editor-GitHub%20Web%20Editor-58a6ff?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Languages-JS%20·%20TS%20·%20C%23%20·%20Python-ff9d00?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Frontend-React%20·%20Next.js%20·%20R3F-00ff9d?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Backend-Node.js%20·%20Firebase-58a6ff?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Database-Firestore%20·%20Supabase-ff9d00?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Tools-Vercel%20·%20Netlify%20·%20Git-00ff9d?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Focus-CodeNova%20Studio-58a6ff?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Portfolio-code--nova--pi.vercel.app-ff9d00?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/LinkedIn-anoop--dubey-00ff9d?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Email-Anoop.dev56%40gmail.com-58a6ff?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Status-Building%20CodeNova%20Studio-ff9d00?style=flat-square&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Coding%20Since-2023-00ff9d?style=flat-square&labelColor=0d1117" />
 
 </td>
 </tr>
