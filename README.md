@@ -89,7 +89,7 @@ I'm **Anoop Dubey** — a CSE student and the founder of **CodeNova Studio**, an
 - 🌱 Currently deepening my knowledge of **cybersecurity and AI agent architecture**
 - 🤝 Open to collaborating on **AI-powered tools, PWAs, and creative front-end experiments**
 - 📍 Based in **India**
-- ⚡ Fun fact: my entire stack has shipped from a phone screen
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff9d,100:0d1117&height=3&width=100%25" width="100%"/>
 
