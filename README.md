@@ -84,7 +84,6 @@
 
 I'm **Anoop Dubey** — a CSE student and the founder of **CodeNova Studio**, an independent product studio where ideas turn into shipped, production-grade software. My work sits at the intersection of clean engineering and expressive design: interfaces that feel alive, animations that feel intentional, and systems that just work.
 
-What makes my workflow a little unusual is that everything is built **entirely from a mobile device** — no laptop, no local IDE. Just the GitHub web editor, a disciplined Git workflow, and a CI/CD pipeline (GitHub → Vercel/Netlify) that takes code from commit to production in minutes.
 
 - 🔭 Currently building **CodeNova Studio's flagship website** — Next.js, React Three Fiber, Framer Motion, Tailwind CSS
 - 🌱 Currently deepening my knowledge of **cybersecurity and AI agent architecture**
