@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="100%" height="100%">
+  <defs>
+    <linearGradient id="about_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b16"/>
+      <stop offset="50%" stop-color="#0a1122"/>
+      <stop offset="100%" stop-color="#070b16"/>
+    </linearGradient>
+
+    <linearGradient id="about_border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#247bff"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#ff354f"/>
+    </linearGradient>
+
+    <linearGradient id="about_card_border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="50%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+
+    <linearGradient id="about_bar_grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#247bff"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#ff354f"/>
+    </linearGradient>
+
+    <pattern id="about_dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#247bff" fill-opacity="0.10"/>
+    </pattern>
+
+    <style>
+      .mono-txt { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+      .sans-txt { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="440" rx="16" fill="url(#about_bg)"/>
+  <rect width="900" height="440" rx="16" fill="url(#about_dots)"/>
+  <rect x="0.8" y="0.8" width="898.4" height="438.4" rx="15.2" fill="none" stroke="url(#about_border)" stroke-width="1.4"/>
+
+  <!-- Section Header -->
+  <g transform="translate(50, 42)">
+    <text x="0" y="0" fill="#38bdf8" font-size="12" font-weight="700" class="mono-txt" letter-spacing="1.5">// 01 . IDENTITY &amp; CORE INITIATIVES</text>
+    <text x="0" y="24" fill="#ffffff" font-size="22" font-weight="800" class="sans-txt" letter-spacing="-0.3">Capabilities &amp; Interests</text>
+  </g>
+
+  <!-- LEFT CARD: CAPABILITIES -->
+  <g transform="translate(50, 85)">
+    <rect width="385" height="325" rx="14" fill="#0c1322" stroke="url(#about_card_border)" stroke-width="1.2"/>
+    
+    <text x="24" y="32" fill="#93c5fd" font-size="13" font-weight="700" class="mono-txt" letter-spacing="1">CORE CAPABILITIES</text>
+    <rect x="290" y="16" width="75" height="20" rx="10" fill="#1e293b"/>
+    <text x="303" y="30" fill="#38bdf8" font-size="10" font-weight="600" class="mono-txt">SYSTEMS</text>
+
+    <!-- Item 1: Cybersecurity -->
+    <g transform="translate(24, 60)">
+      <rect width="36" height="36" rx="8" fill="#141f36" stroke="#247bff" stroke-width="0.8"/>
+      <text x="9" y="24" font-size="17">🛡️</text>
+      <text x="48" y="16" fill="#f1f5f9" font-size="14" font-weight="700" class="sans-txt">Cybersecurity &amp; Systems</text>
+      <text x="48" y="32" fill="#94a3b8" font-size="11.5" font-weight="400" class="sans-txt">Network fundamentals, ethical concepts &amp; Termux / Linux</text>
+    </g>
+
+    <!-- Item 2: Web Dev & AI -->
+    <g transform="translate(24, 122)">
+      <rect width="36" height="36" rx="8" fill="#141f36" stroke="#38bdf8" stroke-width="0.8"/>
+      <text x="9" y="24" font-size="17">🌐</text>
+      <text x="48" y="16" fill="#f1f5f9" font-size="14" font-weight="700" class="sans-txt">Full-Stack Web Development &amp; AI</text>
+      <text x="48" y="32" fill="#94a3b8" font-size="11.5" font-weight="400" class="sans-txt">Modern apps with React, Next.js, Node.js &amp; Firebase</text>
+    </g>
+
+    <!-- Item 3: Compilers -->
+    <g transform="translate(24, 184)">
+      <rect width="36" height="36" rx="8" fill="#141f36" stroke="#ff354f" stroke-width="0.8"/>
+      <text x="9" y="24" font-size="17">⚙️</text>
+      <text x="48" y="16" fill="#f1f5f9" font-size="14" font-weight="700" class="sans-txt">Compilers &amp; Language Design</text>
+      <text x="48" y="32" fill="#94a3b8" font-size="11.5" font-weight="400" class="sans-txt">AKD-FOX (.akd) creator — English-like web syntax</text>
+    </g>
+
+    <!-- Item 4: Community -->
+    <g transform="translate(24, 246)">
+      <rect width="36" height="36" rx="8" fill="#141f36" stroke="#10b981" stroke-width="0.8"/>
+      <text x="9" y="24" font-size="17">🚀</text>
+      <text x="48" y="16" fill="#f1f5f9" font-size="14" font-weight="700" class="sans-txt">Student Builder Leadership</text>
+      <text x="48" y="32" fill="#94a3b8" font-size="11.5" font-weight="400" class="sans-txt">Founder @CodeNova: Fostering hands-on builder culture</text>
+    </g>
+  </g>
+
+  <!-- RIGHT CARD: 3-SLIDE CAROUSEL -->
+  <g transform="translate(465, 85)">
+    <rect width="385" height="325" rx="14" fill="#0c1322" stroke="url(#about_card_border)" stroke-width="1.2"/>
+    
+    <text x="24" y="32" fill="#93c5fd" font-size="13" font-weight="700" class="mono-txt" letter-spacing="1">FEATURED SPOTLIGHT</text>
+    <rect x="255" y="16" width="105" height="20" rx="10" fill="#1e293b"/>
+    <text x="268" y="30" fill="#f87171" font-size="10" font-weight="700" class="mono-txt">AUTO-CYCLING</text>
+
+    <!-- Slide 1: AKD-FOX & Creative Tech (Widened Pill) -->
+    <g transform="translate(24, 60)">
+      <animate attributeName="opacity" values="1; 1; 0; 0; 0; 0; 1" keyTimes="0; 0.31; 0.34; 0.65; 0.95; 0.98; 1" dur="12s" repeatCount="indefinite"/>
+      <rect width="170" height="22" rx="6" fill="#2d151d" stroke="#ff354f" stroke-width="0.8"/>
+      <text x="10" y="15" fill="#ff354f" font-size="10.5" font-weight="700" class="mono-txt">01 // COMPILER CREATOR</text>
+      <text x="0" y="52" fill="#ffffff" font-size="19" font-weight="800" class="sans-txt">AKD-FOX &amp; 3D Experiences</text>
+      <text x="0" y="80" fill="#cbd5e1" font-size="13" font-weight="400" class="sans-txt">
+        <tspan x="0" dy="0">Created AKD-FOX compiler using custom .akd syntax to</tspan>
+        <tspan x="0" dy="20">make web development simpler through natural English-like</tspan>
+        <tspan x="0" dy="20">constructs. Also experimenting with 3D canvas and WebGL.</tspan>
+      </text>
+      
+      <g transform="translate(0, 140)">
+        <rect width="78" height="24" rx="6" fill="#1e293b"/>
+        <text x="10" y="16" fill="#f87171" font-size="11" font-weight="600" class="mono-txt">.akd Lang</text>
+        <rect x="86" y="0" width="104" height="24" rx="6" fill="#1e293b"/>
+        <text x="96" y="16" fill="#38bdf8" font-size="11" font-weight="600" class="mono-txt">Compiler Live</text>
+        <rect x="198" y="0" width="90" height="24" rx="6" fill="#1e293b"/>
+        <text x="208" y="16" fill="#93c5fd" font-size="11" font-weight="600" class="mono-txt">3D Web / UI</text>
+      </g>
+    </g>
+
+    <!-- Slide 2: CodeNova Community (Widened Pill) -->
+    <g transform="translate(24, 60)" opacity="0">
+      <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0; 0" keyTimes="0; 0.32; 0.35; 0.64; 0.67; 0.98; 1" dur="12s" repeatCount="indefinite"/>
+      <rect width="176" height="22" rx="6" fill="#0f2942" stroke="#247bff" stroke-width="0.8"/>
+      <text x="10" y="15" fill="#38bdf8" font-size="10.5" font-weight="700" class="mono-txt">02 // COMMUNITY BUILDER</text>
+      <text x="0" y="52" fill="#ffffff" font-size="19" font-weight="800" class="sans-txt">Founder @CodeNova</text>
+      <text x="0" y="80" fill="#cbd5e1" font-size="13" font-weight="400" class="sans-txt">
+        <tspan x="0" dy="0">Established CodeNova as a premier collaborative space for</tspan>
+        <tspan x="0" dy="20">student builders. We organize peer-driven project sprints,</tspan>
+        <tspan x="0" dy="20">foster open-source collaboration, and mentor peers.</tspan>
+      </text>
+
+      <g transform="translate(0, 140)">
+        <rect width="115" height="24" rx="6" fill="#1e293b"/>
+        <text x="10" y="16" fill="#38bdf8" font-size="11" font-weight="600" class="mono-txt">Student Builders</text>
+        <rect x="123" y="0" width="105" height="24" rx="6" fill="#1e293b"/>
+        <text x="133" y="16" fill="#10b981" font-size="11" font-weight="600" class="mono-txt">Open Initiatives</text>
+        <rect x="236" y="0" width="85" height="24" rx="6" fill="#1e293b"/>
+        <text x="246" y="16" fill="#fbbf24" font-size="11" font-weight="600" class="mono-txt">Leadership</text>
+      </g>
+    </g>
+
+    <!-- Slide 3: Curiosity, Music & Craft (Widened Pill) -->
+    <g transform="translate(24, 60)" opacity="0">
+      <animate attributeName="opacity" values="0; 0; 0; 0; 1; 1; 0" keyTimes="0; 0.65; 0.67; 0.68; 0.70; 0.98; 1" dur="12s" repeatCount="indefinite"/>
+      <rect width="168" height="22" rx="6" fill="#1c1d3b" stroke="#a78bfa" stroke-width="0.8"/>
+      <text x="10" y="15" fill="#c084fc" font-size="10.5" font-weight="700" class="mono-txt">03 // LIFESTYLE &amp; CRAFT</text>
+      <text x="0" y="52" fill="#ffffff" font-size="19" font-weight="800" class="sans-txt">Curiosity, Music &amp; Dev</text>
+      <text x="0" y="80" fill="#cbd5e1" font-size="13" font-weight="400" class="sans-txt">
+        <tspan x="0" dy="0">Music keeps my workflow in a seamless state of flow.</tspan>
+        <tspan x="0" dy="20">Constantly testing developer tools, crafting sleek UI/UX,</tspan>
+        <tspan x="0" dy="20">and exploring new frontiers in AI and cybersecurity.</tspan>
+      </text>
+
+      <g transform="translate(0, 140)">
+        <rect width="90" height="24" rx="6" fill="#1e293b"/>
+        <text x="10" y="16" fill="#c084fc" font-size="11" font-weight="600" class="mono-txt">Music Flow</text>
+        <rect x="98" y="0" width="95" height="24" rx="6" fill="#1e293b"/>
+        <text x="108" y="16" fill="#38bdf8" font-size="11" font-weight="600" class="mono-txt">UI/UX Design</text>
+        <rect x="201" y="0" width="105" height="24" rx="6" fill="#1e293b"/>
+        <text x="211" y="16" fill="#f87171" font-size="11" font-weight="600" class="mono-txt">Fast Learner</text>
+      </g>
+    </g>
+
+    <!-- Progress Bars at Bottom -->
+    <g transform="translate(24, 260)">
+      <g transform="translate(0, 0)">
+        <rect width="105" height="4" rx="2" fill="#1e293b"/>
+        <rect width="0" height="4" rx="2" fill="url(#about_bar_grad)">
+          <animate attributeName="width" values="0; 105; 105; 105; 0" keyTimes="0; 0.33; 0.34; 0.99; 1" dur="12s" repeatCount="indefinite"/>
+        </rect>
+        <text x="0" y="16" fill="#64748b" font-size="9.5" font-weight="600" class="mono-txt">01. COMPILER</text>
+      </g>
+
+      <g transform="translate(116, 0)">
+        <rect width="105" height="4" rx="2" fill="#1e293b"/>
+        <rect width="0" height="4" rx="2" fill="url(#about_bar_grad)">
+          <animate attributeName="width" values="0; 0; 105; 105; 0" keyTimes="0; 0.33; 0.66; 0.99; 1" dur="12s" repeatCount="indefinite"/>
+        </rect>
+        <text x="0" y="16" fill="#64748b" font-size="9.5" font-weight="600" class="mono-txt">02. CODENOVA</text>
+      </g>
+
+      <g transform="translate(232, 0)">
+        <rect width="105" height="4" rx="2" fill="#1e293b"/>
+        <rect width="0" height="4" rx="2" fill="url(#about_bar_grad)">
+          <animate attributeName="width" values="0; 0; 0; 105; 0" keyTimes="0; 0.66; 0.67; 0.99; 1" dur="12s" repeatCount="indefinite"/>
+        </rect>
+        <text x="0" y="16" fill="#64748b" font-size="9.5" font-weight="600" class="mono-txt">03. PURSUITS</text>
+      </g>
+    </g>
+  </g>
+</svg>
