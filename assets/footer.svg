@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="foot_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b16"/>
+      <stop offset="50%" stop-color="#0a1020"/>
+      <stop offset="100%" stop-color="#070b16"/>
+    </linearGradient>
+
+    <linearGradient id="foot_border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#247bff"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#ff354f"/>
+    </linearGradient>
+
+    <pattern id="foot_dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#247bff" fill-opacity="0.10"/>
+    </pattern>
+
+    <style>
+      .mono-txt { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+      .sans-txt { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="160" rx="16" fill="url(#foot_bg)"/>
+  <rect width="900" height="160" rx="16" fill="url(#foot_dots)"/>
+  <rect x="0.8" y="0.8" width="898.4" height="158.4" rx="15.2" fill="none" stroke="url(#foot_border)" stroke-width="1.4"/>
+
+  <!-- Left Side: CodeNova Brand & Motto -->
+  <g transform="translate(45, 45)">
+    <g transform="translate(0, 0)">
+      <rect width="145" height="24" rx="6" fill="#131e36" stroke="#247bff" stroke-width="0.8"/>
+      <text x="10" y="16" fill="#ff354f" font-size="11" font-weight="800" class="mono-txt">⚡ CODENOVA</text>
+      <text x="86" y="16" fill="#38bdf8" font-size="10.5" font-weight="700" class="mono-txt">HUB</text>
+    </g>
+    <text x="0" y="52" fill="#ffffff" font-size="18" font-weight="900" class="sans-txt" letter-spacing="1">
+      CODE. CREATE. REPEAT.
+    </text>
+    <text x="0" y="74" fill="#94a3b8" font-size="12" class="sans-txt">
+      Empowering student builders to learn, experiment, and ship real-world software.
+    </text>
+  </g>
+
+  <!-- Right Side: Creator Credits & Location -->
+  <g transform="translate(560, 48)">
+    <g transform="translate(0, 0)">
+      <rect width="140" height="22" rx="11" fill="#0d1527" stroke="#1e293b" stroke-width="1"/>
+      <circle cx="12" cy="11" r="3.5" fill="#10b981">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="24" y="15" fill="#10b981" font-size="9.5" font-weight="700" class="mono-txt">ACTIVE BUILDER</text>
+    </g>
+
+    <text x="0" y="44" fill="#ffffff" font-size="13" font-weight="600" class="sans-txt">
+      Designed with curiosity. Built by <tspan fill="#38bdf8" font-weight="800">Anoop Dubey</tspan>.
+    </text>
+    <text x="0" y="66" fill="#64748b" font-size="11.5" class="mono-txt">
+      📍 Kushinagar, Uttar Pradesh, India
+    </text>
+  </g>
+</svg>
