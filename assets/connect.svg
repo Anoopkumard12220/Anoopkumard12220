@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#080A12"/>
+  <text x="60" y="50" font-family="Segoe UI,Arial" font-size="26" font-weight="800" fill="#ffffff">LET'S BUILD SOMETHING GREAT</text>
+  <image href="../id.jpg" x="60" y="80" width="160" height="180" preserveAspectRatio="xMidYMid slice"/>
+  <g font-family="Segoe UI,Arial" font-size="14">
+    <rect x="260" y="80" width="880" height="44" rx="12" fill="#0B1020" stroke="#247BFF"/>
+    <text x="285" y="108" fill="#ffffff">GitHub — Anoopkumard12220</text>
+    <rect x="260" y="132" width="880" height="44" rx="12" fill="#0B1020" stroke="#FF3155"/>
+    <text x="285" y="160" fill="#ffffff">Portfolio — anoopdubey.vercel.app</text>
+    <rect x="260" y="184" width="880" height="44" rx="12" fill="#0B1020" stroke="#247BFF"/>
+    <text x="285" y="212" fill="#ffffff">LinkedIn — anoop-dubey-4a52a5380</text>
+    <rect x="260" y="236" width="880" height="44" rx="12" fill="#0B1020" stroke="#FF3155"/>
+    <text x="285" y="264" fill="#ffffff">X — @akd14440 · CodeNova Community</text>
+  </g>
+</svg>

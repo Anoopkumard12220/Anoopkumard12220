@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#080A12"/>
+  <g font-family="Segoe UI,Arial">
+    <text x="60" y="50" font-size="28" font-weight="800" fill="#ffffff">SELECTED WORK</text>
+  </g>
+  <!-- AKD-FOX large card -->
+  <rect x="60" y="80" width="700" height="300" rx="20" fill="#0B1020" stroke="#FF3155" stroke-width="2"/>
+  <text x="90" y="120" font-family="Segoe UI,Arial" font-size="22" font-weight="800" fill="#ffffff">01 · AKD-FOX Compiler</text>
+  <text x="90" y="155" font-family="Segoe UI,Arial" font-size="14" fill="#a0a8c0">Minimal static-prototype compiler for the AKD Fox language.</text>
+  <text x="90" y="178" font-family="Segoe UI,Arial" font-size="14" fill="#a0a8c0">Compiles .akd into standalone HTML/CSS. Includes web playground.</text>
+  <rect x="90" y="210" width="90" height="24" rx="12" fill="#247BFF" opacity="0.2" stroke="#247BFF"/>
+  <text x="135" y="227" text-anchor="middle" font-family="Segoe UI,Arial" font-size="11" fill="#247BFF">TypeScript</text>
+  <rect x="190" y="210" width="80" height="24" rx="12" fill="#FF3155" opacity="0.2" stroke="#FF3155"/>
+  <text x="230" y="227" text-anchor="middle" font-family="Segoe UI,Arial" font-size="11" fill="#FF3155">Node.js</text>
+  <!-- small cards -->
+  <rect x="790" y="80" width="350" height="95" rx="16" fill="#0B1020" stroke="#247BFF" stroke-width="1.5"/>
+  <text x="810" y="115" font-family="Segoe UI,Arial" font-size="16" font-weight="700" fill="#ffffff">02 · AURA Music</text>
+  <text x="810" y="140" font-family="Segoe UI,Arial" font-size="12" fill="#a0a8c0">Music player exploring audio playback &amp; UI.</text>
+
+  <rect x="790" y="190" width="350" height="95" rx="16" fill="#0B1020" stroke="#247BFF" stroke-width="1.5"/>
+  <text x="810" y="225" font-family="Segoe UI,Arial" font-size="16" font-weight="700" fill="#ffffff">03 · Aura Studio</text>
+  <text x="810" y="250" font-family="Segoe UI,Arial" font-size="12" fill="#a0a8c0">Web IDE: Monaco, WebContainer, PWA.</text>
+
+  <rect x="790" y="300" width="350" height="80" rx="16" fill="#0B1020" stroke="#247BFF" stroke-width="1.5"/>
+  <text x="810" y="330" font-family="Segoe UI,Arial" font-size="16" font-weight="700" fill="#ffffff">04 · CodeNova Community</text>
+  <text x="810" y="355" font-family="Segoe UI,Arial" font-size="12" fill="#a0a8c0">AI product studio site (Next.js 14).</text>
+</svg>
