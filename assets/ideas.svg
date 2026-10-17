@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <rect width="1200" height="260" fill="#070b1a"/>
+  <g font-family="Segoe UI,Arial">
+    <rect x="60" y="40" width="340" height="180" rx="16" fill="#0d1b3d" stroke="#4da6ff" stroke-width="1.5"/>
+    <text x="230" y="95" text-anchor="middle" font-size="40">🛡️</text>
+    <text x="230" y="135" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">Cybersecurity</text>
+    <text x="230" y="165" text-anchor="middle" font-size="13" fill="#a0a8c0">Networks, sniffers, awareness</text>
+
+    <rect x="430" y="40" width="340" height="180" rx="16" fill="#0d1b3d" stroke="#ff2d55" stroke-width="1.5"/>
+    <text x="600" y="95" text-anchor="middle" font-size="40">🤖</text>
+    <text x="600" y="135" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">AI &amp; Dev Tools</text>
+    <text x="600" y="165" text-anchor="middle" font-size="13" fill="#a0a8c0">Compilers, editors, AI tooling</text>
+
+    <rect x="800" y="40" width="340" height="180" rx="16" fill="#0d1b3d" stroke="#4da6ff" stroke-width="1.5"/>
+    <text x="970" y="95" text-anchor="middle" font-size="40">🎨</text>
+    <text x="970" y="135" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">Creative Web</text>
+    <text x="970" y="165" text-anchor="middle" font-size="13" fill="#a0a8c0">Immersive animated UIs</text>
+  </g>
+</svg>

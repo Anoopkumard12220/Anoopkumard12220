@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <rect width="1200" height="360" fill="#070b1a"/>
+  <g transform="translate(600,180)">
+    <circle r="150" fill="none" stroke="#4da6ff" stroke-width="1" opacity="0.4"/>
+    <circle r="100" fill="none" stroke="#ff2d55" stroke-width="1" opacity="0.4"/>
+    <circle r="50" fill="#0d1b3d" stroke="#4da6ff" stroke-width="2"/>
+    <text text-anchor="middle" y="6" font-family="Segoe UI,Arial" font-size="16" fill="#ffffff" font-weight="700">AKD</text>
+  </g>
+  <g font-family="Segoe UI,Arial" font-size="13" fill="#a0a8c0">
+    <text x="120" y="60">HTML · CSS · JS · TS · Python</text>
+    <text x="120" y="90">React · Next.js · Tailwind</text>
+    <text x="120" y="120">Node.js · Express</text>
+    <text x="120" y="150">Firebase · Supabase</text>
+    <text x="120" y="180">Git · GitHub · VS Code</text>
+    <text x="120" y="210">Vercel · Netlify</text>
+  </g>
+</svg>
